@@ -1,12 +1,12 @@
 {
   "build": {
     "env": {
-      "API_HASH": "",
-      "API_ID": "",
-      "ASSISTANT_SESSION": "",
-      "BOT_TOKEN": "",
-      "OWNER_ID": "",
-      "MongoDB_url": ""
+      "API_HASH": "c53be4446db5a7ebcee0e54c825e2b5c",
+      "API_ID": "38267777",
+      "ASSISTANT_SESSION": "BQE1hZwAkduJmI60XssfALd_JJBzIVHwXlyvEGyQNaDP58bvyIJAMPUwrPxjt0x0IyTZ-DJJ1_fGjen_tAACQIVxYZjzrwROov4aPkrUKo3npeYZvVBXRe5mRc8XQ1E5_8gLLcthiQ8y1PHiiJM7h3zQOnTnw5rz7hpLP0t3mfnPKI7QsC1mybs22S3uLIbU60Xz2RvV2Ck9qEahdARweJzC9ugwkQO5dG2B_2gULRLQ5V9s54Pv-qpFVyWW1XUJf7CJP4rBWOI-p7MkFKnEU_YegBSFQlMoG6DljqJdCTwotANIrg1ywCpmvvEGh0ZBfLSMxEzD6O_UqSppxgVjD0kOKI2vfwAAAAIAZbPEAA",
+      "BOT_TOKEN": "8280853171:AAF3V8DkoDLYorR475GLqD6kRzY36BME-Vo",
+      "OWNER_ID": "6729808208",
+      "MongoDB_url": "mongodb+srv://rj5706603:O95nvJYxapyDHfkw@cluster0.fzmckei.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     }
   },
   "deploy": {
